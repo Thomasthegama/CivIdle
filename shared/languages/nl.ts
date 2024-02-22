@@ -22,7 +22,7 @@ export const NL = {
     Writing: "Schrijven",
     Shamanism: "Sjamanisme",
     RoadAndWheel: "Weg & Wiel",
-    Astronomy: "Astronomie  ",
+    Astronomy: "Astronomie",
     IronTech: "Ijzer",
     Construction: "Bouw",
     Music: "Muziek",
